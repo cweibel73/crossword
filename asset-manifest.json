@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crossword/static/css/main.6cb5d908.chunk.css",
+    "main.js": "/crossword/static/js/main.36d096fa.chunk.js",
+    "main.js.map": "/crossword/static/js/main.36d096fa.chunk.js.map",
+    "runtime-main.js": "/crossword/static/js/runtime-main.1b10c996.js",
+    "runtime-main.js.map": "/crossword/static/js/runtime-main.1b10c996.js.map",
+    "static/js/2.4ffb1452.chunk.js": "/crossword/static/js/2.4ffb1452.chunk.js",
+    "static/js/2.4ffb1452.chunk.js.map": "/crossword/static/js/2.4ffb1452.chunk.js.map",
+    "static/js/3.416008d7.chunk.js": "/crossword/static/js/3.416008d7.chunk.js",
+    "static/js/3.416008d7.chunk.js.map": "/crossword/static/js/3.416008d7.chunk.js.map",
+    "index.html": "/crossword/index.html",
+    "static/css/main.6cb5d908.chunk.css.map": "/crossword/static/css/main.6cb5d908.chunk.css.map",
+    "static/js/2.4ffb1452.chunk.js.LICENSE.txt": "/crossword/static/js/2.4ffb1452.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b10c996.js",
+    "static/js/2.4ffb1452.chunk.js",
+    "static/css/main.6cb5d908.chunk.css",
+    "static/js/main.36d096fa.chunk.js"
+  ]
+}
