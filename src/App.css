@@ -1,0 +1,37 @@
+.game {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto auto;
+  margin: -1em auto;
+  width: 35%;
+  text-align: center;
+}
+
+.letter {
+  font-size: 2em;
+  margin-bottom: -1em;
+}
+
+.num {
+  color: blue;
+}
+.symbol {
+  color: white;
+}
+
+.white {
+  color: white;
+  border: 1px solid black;
+}
+
+#btns {
+  text-align: center;
+}
+
+.black {
+  color: black;
+  border: 1px solid black;
+}
+
+button {
+  font-size: 2em;
+}
